@@ -75,3 +75,261 @@
 
 # CBG
 
+- **Event Based Decouple**
+  - Identified the opportunity to decouple systems by implementing event stream-based produce/consume architecture.
+  - Addressed transition difficulties by focusing on incremental wins to build trust.
+  - Successfully won over the developer community by introducing a schema registry for data validation, increasing trust between teams.
+  - Initiated discussions on Contracts/SLAs to introduce Data Mesh concepts gradually.
+  - Currently overseeing an integration that generates millions of events per day, enabling ML experiments previously considered "impossible" by the teams.
+- **Grand Central / Data Mesh**
+  - Reviewed existing roadmap and engaged in discussions with divisions.
+  - Currently focusing on education and culture discussions, with plans for CBG (Consumer Business Group) to have end-to-end data access as the initial focus.
+  - Secured leadership agreement on budgeting for 2023.
+  - Built confidence gradually over the first month.
+  - Identified significant opportunities for implementing a data mesh architecture.
+- **PostIt CEO Summit**
+  - Rectified RG to Sub mistake by redoing scaffold and prioritizing E2E GitOps corrections.
+    - Leveraged cost savings to hire additional LT GitOps lead and avoided $200k estimate from MSFT proserve.
+  - Architecture Tasks:
+    - Actively supported a long-time vendor, reducing bloat and implementing GitOps pipelines as a CBG example.
+    - Ensured secure K8S environment and supported PCI/SOC2 compliance screenings.
+    - Managed the conversion of existing AWS backend (political aspect).
+  - Also participated in Microsoft/3M CEO Summit.
+  - Initially brought in as an architect while in CRSL, which led to the current role in CBG.
+  - Involved in supporting Azure Next Gen initiatives.
+- **SQL Hyperscale**
+  - Reviewed E2E architecture for all systems, discovered a SQL instance solely used by Walmart.
+  - Proposed Synapse SQL Serverless Pool as a solution.
+    - Conducted POC and scripted existing retailers, seamlessly integrating with Delta tables.
+    - Achieved significant cost reduction, with a workload cost of $100 in the first month compared to the previous $5k.
+  - Implemented another transition item to further build trust.
+- **Transition**
+  - Identified key leaders and provided 1:1 training on events and serverless concepts.
+    - Resulted in agreement to initiate business group-wide data mesh discussion, increased direct influence, and supported "leader" PO with user stories.
+  - Developed a comprehensive architectural roadmap to expedite the implementation of the leadership plan.
+  - Built confidence incrementally through small wins with developers.
+  - Assumed the role despite leader's initial resistance to a "research" mindset.
+
+# CPO
+
+- **Alignment / Team Topologies**
+  - Conducted a share-out session on team topologies.
+  - Faced challenges due to conflicting CPOs and poor politics related to resources and budget.
+  - Implemented a metascrum structure for the entire organization.
+  - Restructured teams under my metascrum to focus on Enablement and support other teams.
+    - Improved presentation of R&D work to leadership, adopting a proactive approach.
+    - Reduced in-fighting and achieved better alignment within the organization.
+- **AWS IoT**
+  - Made the decision to prioritize OSS solutions.
+  - Collaborated with AWS under limited window/investment to align with specific needs.
+    - Properly archived and documented the project, leading to its revival by an internal team a year later.
+    - Facilitated the acquisition of AWS skills by the Azure IoT team.
+    - Engaged in a short ProServe engagement to gain access to the Connected Devices Framework.
+  - Recognized the future potential and shifted 3M's focus to AWS.
+  - No ongoing IoT projects in the corporate pipeline.
+- **MaaS**
+  - Young PO
+    - Built feature roadmap for next 2 quarters, improved model cycle time, deployed statistical models, enabled customer fine-tuning.
+    - Facilitated mentorship for PO with internal product manager.
+  - Took over as CPO, gained understanding of the full domain.
+    - Explored features in HPC (Altair), studied M&S customers' workflow, interacted with their customers.
+    - Focused on HPC and provided initial architecture emphasizing data movement and security.
+    - Addressed licensing complexities with APIs, established a black box solution.
+- **OnePlace**
+  - Realized "not invented here" mentality, educated on buy vs build pros.
+    - Identified saturated market, no significant features lacking.
+    - Created tech expert group to evaluate, focused on upstream data intake and low/no code.
+    - Delivered immediate value, reduced CW team members, established partnership with TTS leaders.
+    - Still leveraging in CBG, collaborated with IT to explore existing vendors.
+  - Conducted canvas, persona development, architecture review, stakeholder roundtable.
+  - Previously viewed as a boondoggle project by a departed leader.
+- **Oral Care ML Ops**
+  - Approached by division partner, leveraged 15% time under the radar.
+    - Exposed negative qualities of current manager, recognized by lab director.
+    - Established team motto of giving, improved story/PBI quality.
+    - Created POC and achieved production deployment within weeks.
+    - Recognized for large 15% contributions, had necessary skillsets.
+    - Researched reference patterns, created initial architecture and POC.
+    - Collaborated with team members to flesh out the POC.
+- **Org Structure**
+  - Created mock org chart to initiate conversation.
+  - Participated in reorg discussions, focused on talent matching.
+  - Slotted in names to prompt dialogue, resulted in 80% adoption.
+- **Portfolio Review**
+  - Built Edge & Data Platform, sought input from experts.
+  - Received both present and anonymous feedback, mostly critical.
+  - De-anonymized feedback after the first year, led to productive conversations.
+
+# Hackathon
+
+- **Drone**
+  - Completed drone projects with 3 divisions during OneWeek 2018.
+  - Led a team of 5 developers to Redmond and met Satya Nadella.
+  - Assisted in debugging odd behaviors and worked with DJI to access unreleased SDK.
+  - Trained model for image capture and tag recognition.
+- **Flex Lab Application Engineers**
+  - Proposed using HL2 Remote Assistant / Guides to assist AEs.
+  - Educated AEs on HL2 and platform, imported 3D models for guide overlay.
+    - Guide overlay still used today, scaled out to digital factory by requesting team.
+    - Unblocked $2M in sales with 1 week effort.
+  - Created a small team through 15% time and hackathon.
+  - T6 presented pandemic issue as AEs couldn't go to customer sites for consultation.
+- **Hackathon Inception**
+  - Attended Microsoft OneWeek, showcased drone project.
+  - Microsoft's hackathon framework caught attention.
+  - Collaborated with organizer to plan rollout at 3M.
+  - Faced pushback but presented concept to lab director.
+    - Received support, resulted in impactful projects.
+    - Continued growth year over year, global participation of 900+ individuals.
+    - Partnered with Legal, completed framework with Microsoft.
+    - Measured interest with Divisions, built advocacy.
+- **IoT Hackathon**
+  - Presented training materials and debugged for 3-day hackathon.
+    - Devices used in additional research projects.
+    - Shared IoT knowledge with 120 participants.
+    - Established network, recognized as IoT leader at 3M.
+  - Led awards ceremony, collaborated on IoT curriculum with Microsoft.
+  - Successful first-year hackathon, bulk procurement of 200 devices.
+- **MkDocs Automation**
+  - Established GitHub template as internal innersource example and documentation standard.
+    - Used by 100+ projects over 4 years.
+  - Added features over time:
+    - Working on E2E automation using Azure Static Web Apps and AWS.
+    - Hosted on GitHub Pages.
+    - Improved template and implemented GitHub Actions.
+  - Created a simple Git and pipeline-based solution.
+- **Pandemic Response**
+  - Key issue identified: environmental impact and stockpile management.
+    - Finalist in a global hackathon.
+    - Timeline exceeded expected pandemic duration.
+    - Worked on estimating rollout and implementation.
+    - Proposed smart collection and ULD marketplace.
+  - Captured architecture of current enterprise connected systems for mask distribution.
+  - Team across 13 time zones, worked at unconventional hours.
+  - Spoke with pandemic response leaders in key countries and 3M's global leader.
+- **Pfizer Sustainability Partner Hack**
+  - Analyzed Pfizer's clinical trial supply chain.
+    - Gained personal learnings from the analysis.
+  - Developed a solution to analyze and score each step of the supply chain.
+    - Helped Pfizer track progress towards sustainability goals.
+    - Successfully rolled out the solution.
+  - Created a prototype mobile app for scoring.
+    - The scoring app is now in production.
+  - Scoped the project to focus on scoring and measurement.
+- **Quantum Inspired Optimization (QIO)**
+  - Evaluated the cost and improvement of QIO and found it inefficient.
+    - Joined an ongoing quantum user group.
+    - Continues to be evaluated for material discovery.
+  - Collaborated with researchers to validate a use case.
+  - Identified a use case in the supply chain.
+  - Compared results using cloud toolkits from both providers.
+
+# IoT
+
+- **Connected Safety**
+  - Field Trials:
+    - Beacon Device Position
+    - Lead Acid Battery Plant
+    - Remote Device Firmware Updates:
+      - 7 IS / 5 patents in progress, program transferred but not released.
+      - Launch scheduled but program terminated due to Covid focus.
+  - Multi Tenancy:
+    - Customer trust increased from 40% to 75% with security details.
+  - GDPR Data Isolation & Requirements:
+    - Successful device provisioning test of 100 EU devices.
+  - Complex Distributor Network:
+    - Global Device Provisioning.
+- **EMD Grid Modernization**
+  - Cloud Selection:
+    - AWS IoT Platform Partnership:
+      - 18 IS / 9 patents in progress, $40M projected sales.
+      - Transfer but not deployed.
+  - Highly regulated environment:
+    - Isolated Tenancy Model:
+      - Achieved device and energy grid certification.
+  - Grid Algorithm Optimization:
+    - Established ML Ops Loop:
+      - New models deployment time reduced from weeks to hours.
+  - Long-term partnership.
+  - Firmware Process Improvement:
+    - Azure RTOS vs Free RTOS.
+- **Filtrete Product Launch**
+  - 200k+ users, $10M/year sales, 8 IS, 2 patents in progress.
+  - Streaming Data Ingest:
+    - Eliminated batch ETL:
+      - Databricks Structured Streaming for real-time views.
+    - Removed stream analytics:
+      - Unnecessary for use case, saved $300/month.
+  - Cost Optimization:
+    - Payload Batching:
+      - Reduced number of messages, created simulator, reused by others, saved $800/month.
+    - ML Ops Setup:
+      - Established training/test data lifecycle.
+    - VM to Serverless ML:
+      - Improved scalability, event-based/queue processing, cost savings of over $1500/month.
+    - ML Ops Setup:
+      - Models to production in under 1 hour.
+- **First OSS Project**
+  - Worked with Microsoft/3M Legal:
+    - Established MIT license as outgoing standard, contributed back changes.
+    - First OSS platform at 3M, excluding AGPLv3.
+  - Reduce Tech Debt:
+    - Allowed external contributions, eliminated original codebase.
+  - Improve Team Morale:
+    - Retrospective happiness increased from 1 to 8.
+  - Migration Planning/Roadmap:
+    - Increased system features by 3x, migrated all 3 divisions in under 2 months.
+- **Japan/Taiwan Projects**
+  - Smart Water Filtration:
+    - Industrial product launch.
+  - Train Electric Grid Improvements:
+    - Research deployed.
+  - Isolated Team:
+    - Hackathon and networking to build trust and team visibility.
+  - Cultural Nuances:
+    - Researched interaction and established working rapport.
+- **Platform**
+  - Product Owner:
+    - Improve Delivery:
+      - Limit access to upper environments for improved dev/prod parity.
+      - Establish release manager for faster release cycles.
+      - Documented metrics and knowledge sharing.
+      - Introduced peer reviews as a rewarding practice.
+    - Reduce CW team size and vendor for cost reduction of $500k/year.
+  - Transfer to TTS:
+    - Decision to archive.
+- **Secure device provision / mfg**
+  - Manufacturing:
+    - Worked with New Ulm Plant to establish capability and pattern for device provision (10k devices and growing).
+    - Improved FW upload process with PC health check, catalog device, post-inspection, and pre-signed TPM.
+  - Education to Stakeholders:
+    - Emphasized importance of secure device provision to avoid brand damage.
+    - Highlighted cost savings by using SuperMicro and Azure IoT.
+  - Policy / Security Reviews:
+    - Implemented BOM HW exception and additional provisioning checks.
+
+# Mentorship
+
+- **1:1 Training**
+  - Resulted in 6 new architects for 3M, some of whom have moved on to other large organizations.
+  - Basic architecture process training:
+    - Cover system/business/user KPIs.
+    - Conduct well-architected reviews and evaluate against metrics (ops, cost, measurement, security, reliability, legal, performance).
+    - Simplified TOGAF approach.
+  - Help architects build their network through internal architecture roadshows.
+  - Time-boxed effort to two weeks for wider acceptance.
+  - Collaborate with managers to identify capable engineers.
+- **Architecture Corner**
+  - Opened up to non-technical participants.
+  - Impacted more than 50 programs over a span of 3 years.
+  - Conducted monthly meetings with 15 to 30 attendees.
+- **GTLA Speech: Delivering Digital Product**
+  - Subjects included:
+    - Understanding Data Value and Product Ecosystems.
+    - Architecture and Cloud 101.
+    - Ideation and design thinking.
+    - Hackathons and community building.
+    - Building a team and defining roles.
+    - Lean Startup and Scrum methodologies.
+  - Presented to an internal audience of over 100 people.
+  - Now part of 3M's Tech Wizards program, and have presented to 2 high schools and 1 community college.
