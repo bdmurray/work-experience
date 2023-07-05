@@ -19,7 +19,7 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 ---
 ###### [LinkedIn](https://www.linkedin.com/in/bfdmurray) . bdmurray@gmail.com . (651) 341-9958
 
-#### Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A visionary leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at collaborating with cross-functional teams and stakeholders to align technology with business objectives. Strong advocate for mentorship and knowledge sharing.
+##### Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A visionary leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at collaborating with cross-functional teams and stakeholders to align technology with business objectives. Strong advocate for mentorship and knowledge sharing.
 
 ## Skills
 
@@ -53,6 +53,7 @@ Winter 2021 - Present
 - Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
 
+\pagebreak
 ### Principal Product Manager, 3M: Consumer Business Group
 Winter 2022 - Present
 
