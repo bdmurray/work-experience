@@ -53,7 +53,7 @@ Winter 2021 - Present
 - Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
 
-\pagebreak
+\newpage
 ### Principal Product Manager, 3M: Consumer Business Group
 Winter 2022 - Present
 
