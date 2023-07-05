@@ -19,25 +19,26 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 ---
 ###### [LinkedIn](https://www.linkedin.com/in/bfdmurray) . bdmurray@gmail.com . (651) 341-9958
 
-### Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A visionary leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at collaborating with cross-functional teams and stakeholders to align technology with business objectives. Strong advocate for mentorship and knowledge sharing.
+#### Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A visionary leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at collaborating with cross-functional teams and stakeholders to align technology with business objectives. Strong advocate for mentorship and knowledge sharing.
 
 ## Skills
 
 ```architecture```
 ```cloud```
+```advocacy```
 ```mentoring```
 ```collaboration```
 ```empathy```
 ```influence```
 ```analytical```
 
+**Soft Skills**: Team leadership, Mentoring and coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Technical writing, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Problem-solving, Innovation management, Creative thinking, Design thinking, Continuous improvement, Adaptability, Stakeholder management, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Problem-solving, Process improvement, Customer-centric mindset, User experience design, Customer relationship management, Product development, Market research, Lean principles, Iterative development, Relationship building, Conflict resolution, Empathy
 **Programming**: ASP.NET C#, Java, Angular, React, Python, JavaScript, TypeScript, UML and AML, Rest, GraphQL
-**Platforms**: Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS)
+**Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
 **Devops**: Git, Bitbucket, GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines), Docker
 **Azure**: Event Hub, Event Grid, Functions, Data Factory, Logic Apps, Service Bus, AKS/Kubernetes, Cosmos DB, Synapse Analytics, Cognitive Services, Azure ML Services and ML Ops, Azure Sphere, IoT Hub, Azure IoT Central, Digital Twins, Time Series Insights, IoT Edge Runtime, Spatial Anchors, Remote Rendering, Hololens
 **AWS**: IoT Core, Device Manager, Lambda, Kinesis, EKS/Kubernetes, AppSync, Sitewise, Sagemaker, Aurora, DynamoDB, Greengrass v2, “Snow” device family
 **Data**: Databricks, Snowflake, Kafka/Confluent Cloud, Microsoft SQL Server, MySQL, PostgreSQL, Neo4j
-**Soft Skills**: Team leadership, Mentoring and coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Technical writing, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Problem-solving, Innovation management, Creative thinking, Design thinking, Continuous improvement, Adaptability, Stakeholder management, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Problem-solving, Process improvement, Customer-centric mindset, User experience design, Customer relationship management, Product development, Market research, Lean principles, Iterative development, Relationship building, Conflict resolution, Empathy
 
 ## Experience
 

@@ -459,7 +459,7 @@ body {
 }
 
 body {
-    font: 13.34pxHelvetica;
+    font: 13.34px Helvetica;
     -webkit-font-smoothing: subpixel-antialiased;
     line-height: 1.4;
     padding: 3px;
@@ -522,7 +522,7 @@ h1 {
 h2 {
     font-size: 24px;
     border-bottom: 1px solid #ccc;
-    color: #f39
+    color: rgb(0, 71, 137)
 }
 
 h3 {
