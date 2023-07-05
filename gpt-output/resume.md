@@ -1,39 +1,3 @@
-**Summary:**
-Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A visionary leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at collaborating with cross-functional teams and stakeholders to align technology with business objectives. Strong advocate for mentorship and knowledge sharing. 
-
-**Experience Highlights:**
-- Successfully led multiple enterprise-level projects, including IoT, ML Ops, and cloud platform implementations, resulting in cost savings, improved efficiency, and revenue growth.
-- Demonstrated expertise in driving architecture decisions, aligning technology strategy with business goals, and ensuring scalability, security, and performance.
-- Led cross-functional teams to deliver cutting-edge solutions, resulting in numerous patents, industry recognition, and market leadership.
-- Established and nurtured strategic partnerships with technology vendors, enabling access to cutting-edge tools and accelerating innovation.
-- Built and led high-performing teams, fostering a culture of collaboration, innovation, and continuous learning.
-- Delivered engaging presentations and training sessions on architecture, design thinking, and digital product development to internal and external audiences.
-- Actively involved in community building initiatives, including hackathons and mentorship programs, to cultivate talent and promote innovation.
-
-**Education and Certifications:**
-- [List relevant education and certifications]
-
-**Technical Skills:**
-- [List relevant technical skills]
-
-
-**Summary: Chief Solutions Architect**
-Proven Chief Solutions Architect with a track record of driving digital transformation and operational efficiency across global organizations. Recognized as an internal IoT and edge expert, leading strategic initiatives in informatics, multimodal communication, and factory automation. Spearheaded the adoption of secure solutions, policy changes, and trade secret developments for remote workforce enablement. Pioneered the release of the first corporate platform on public 3M GitHub, fostering open-source collaboration and innovation. Provided technical leadership and mentorship to software engineering and DevOps teams. Highly regarded for executive-level presentations and speaking engagements on IoT, digital product development, and architecture. Notable contributions include leading the 3M corporate hackathon with over 1000 participants worldwide and playing a key role in sustainable stockpile management and clinical supply chain sustainability partnerships. Adept at conducting architecture reviews to support large-scale corporate acquisitions.
-
-**Summary: Chief Product Owner**
-Experienced Chief Product Owner (CPO) with a strong background in leading strategic initiatives within the domains of AI/ML/Data, IoT/Edge/Robotics, High Performance Compute (HPC) and Developer Platform, and Tooling. Demonstrated expertise in providing vision, leadership, and roadmaps for multiple teams, comprising 50+ members and managing an annual budget exceeding $3M. Successful in fostering cross-organizational alignment by shifting focus from platforms to enablement, resulting in improved collaboration and efficiency. Proven ability to optimize resource utilization, reducing contingent workforce spend by $1M annually through a shift from build to buy for non-differentiated platforms. Instrumental in accelerating platform availability by over one year from original estimates, enabling faster time-to-market and business impact. Skilled in supporting global efforts, driving success across 3 regions and 7 countries.
-
-**Summary: Chief Solutions Architect - Risdall**
-Accomplished Chief Solutions Architect with a successful track record in providing architectural guidance, program management, and product solutions for both startups and enterprises. Played a pivotal role in formalizing in-house architectural patterns, practices, standards, and customer engagement models, resulting in improved efficiency and client satisfaction. Demonstrated expertise in selecting, implementing, and maintaining key partnerships with industry-leading companies such as Adobe, Google, Microsoft, and Sitecore. Served as the primary technical sales leader, driving sales practices aligned with current technology trends and ensuring optimal client outcomes. Proficient in project financial monitoring, estimation, budgeting, resource allocation, and forecasting. Actively involved in research and direction for emerging platforms including mobile, web, and cutting-edge technologies such as AI/ML, AR, VR, IoT, and Blockchain. Valuable contributor to the core team responsible for designing and implementing internal Agile/Kanban practices, fostering agile development and project delivery excellence.
-
-**Summary: Senior Web Engineer**
-Highly skilled Senior Web Engineer with a proven track record at Shavlik Technologies. Led as the primary web engineer, driving the analysis of client needs, gathering requirements, and providing expertise in software architecture. Demonstrated proficiency in proposal writing, estimating, and delivering exceptional client-facing technical sales support. Successfully managed day-to-day accounts, fostering strong client relationships and ensuring client satisfaction. Conducted security audits of network/server installations and performed thorough code reviews, ensuring robust security measures were in place. Made significant contributions to the implementation of standard practices for secure coding templates, enabling other consultants to leverage them for increased efficiency and security. Collaborated on the development of Microsoft Baseline Security Analyzer in partnership with Microsoft, contributing to the enhancement of security practices and tools within the industry.
-
-**Summary: Air Freight Consultant**
-Experienced Air Freight Consultant with a successful tenure at Unisys, specializing in global operations. Engaged in extensive international travel, collaborating with clients and stakeholders across various countries and regions. Played a crucial role in implementing performance enhancements to real-time airline cargo delivery and tracking systems, optimizing efficiency and ensuring seamless operations on a global scale. Led project planning, development, and international client installations, gaining valuable experience in navigating diverse cultural and business environments. Acted as the primary developer responsible for integrating the back-end mainframe system with an online booking request and tracking system, enabling global utilization of the online component. Made significant contributions to the success of the project, facilitating streamlined and efficient processes for online cargo booking and tracking across multiple countries and regions.
-
-
-**Output Resume**
 
 # Bradley D. Murray
 
@@ -46,11 +10,37 @@ Experienced Air Freight Consultant with a successful tenure at Unisys, specializ
 
 ## Summary
 
-Proven Chief Solutions Architect with a track record of driving digital transformation and operational efficiency across global organizations. Recognized as an internal IoT and edge expert, leading strategic initiatives in informatics, multimodal communication, and factory automation. Spearheaded the adoption of secure solutions, policy changes, and trade secret developments for remote workforce enablement. Pioneered the release of the first corporate platform on public 3M GitHub, fostering open-source collaboration and innovation. Provided technical leadership and mentorship to software engineering and DevOps teams. Highly regarded for executive-level presentations and speaking engagements on IoT, digital product development, and architecture. Notable contributions include leading the 3M corporate hackathon with over 1000 participants worldwide and playing a key role in sustainable stockpile management and clinical supply chain sustainability partnerships. Adept at conducting architecture reviews to support large-scale corporate acquisitions.
+Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A visionary leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at collaborating with cross-functional teams and stakeholders to align technology with business objectives. Strong advocate for mentorship and knowledge sharing. 
 
 ---
 
 ## Experience
+
+## Chief Architect
+### 3M: Consumer Business Group
+### Winter 2021 - Present
+
+- Spearhead architecture and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
+- Provide expert architectural oversight and leadership for key brand digital initiatives, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
+- Successfully implement cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining optimal performance and scalability.
+- Design robust data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling seamless integration across supply chain, manufacturing, marketing, demand, and research use cases.
+- Innovate event and stream-based patterns to decouple systems, enhance data sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
+- Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
+- Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
+
+## Principal Product Manager
+### 3M: Consumer Business Group
+### Winter 2022 - Present
+
+- Serve as Technical Product Owner for high-profile projects, including Post-it for Microsoft Teams CEO Summit collaboration with 3M and Microsoft CEOs, as well as Post-it mobile applications.
+- Lead a cross-functional team of 40 experts in design, cloud and mobile development, data, and machine learning, overseeing a budget of $2M per quarter.
+- Drive knowledge transfer from agency consulting to a work-for-hire contractor model, internalizing critical expertise, saving $1.5M/quarter, and accelerating delivery velocity by over 2x.
+- Lead technical security review for SOC2 and Microsoft Application security initiatives, ensuring compliance and safeguarding sensitive customer data.
+- Developed key business personas to inform roadmap and enhance sales enablement efforts, aligning product development with customer needs.
+- Establish a comprehensive multi-year roadmap, leveraging increased velocity and aligning with evolving customer demands, while considering key personas and user requirements.
+- Coordinate technical aspects of the program across design, legal, financial, compliance, security, and engineering teams, ensuring seamless collaboration and successful project execution.
+- Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, and cloud environment isolation.
+- Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
 
 ### Chief Solutions Architect
 #### 3M: Corporate Research
@@ -79,6 +69,18 @@ Proven Chief Solutions Architect with a track record of driving digital transfor
 * Reduced contingent workforce spend by $1M annually by shifting from build to buy for non-differentiated platforms. Also accelerated platform availability by over one year from original estimates.
 * Supported global efforts in 3 regions and 7 countries.
 
+## Chief Solutions Architect
+### Risdall Marketing Group
+### Summer 2003 - Fall 2017
+
+* Provided architecture, program management and product solutions for startups and enterprises.
+* Formalized in-house architectural patterns, practices, standards and customer engagement models.
+* Selected, implemented, and maintained key partnerships with Adobe, Google, Microsoft, and Sitecore.
+* Primary technical sales leader. Established and adapted sales practices around current technology trends.
+* Responsible for monitoring project financials, estimation, budgeting, resource allocation, and forecasting.
+* Provide research and direction for mobile, web, and new platforms (AI/ML, AR, VR, IoT, and Blockchain).
+* Core team member designing and implementing internal Agile / Kanban practices.
+
 ### Senior Web Engineer
 #### Shavlik Technologies
 #### Spring 2000 - Summer 2003
@@ -100,7 +102,7 @@ Proven Chief Solutions Architect with a track record of driving digital transfor
 
 ## Education
 
-* Bachelor of Science in Computer Science - University of Minnesota
+* Bachelor of Science in Computer Science - Bemidji State University
 
 ---
 
@@ -117,22 +119,9 @@ Proven Chief Solutions Architect with a track record of driving digital transfor
 
 ## Certifications
 
-* TOGAF Certified Architect (Level 2)
 * Certified Scrum Product Owner (CSPO)
-* AWS Certified Solutions Architect - Associate
-
----
-
-## Publications
-
-* "IoT and Edge Computing: Driving Digital Transformation in Manufacturing" - IEEE Conference on Industrial Electronics (2020)
-
----
-
-## Languages
-
-* English (Native)
-* French (Proficient)
+* Azure Solutions Architect Expert
+* AWS Certified Solutions Architect Associate
 
 ---
 
