@@ -23,22 +23,21 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 
 ## Skills
 
-```architecture```
 ```cloud```
+```architecture```
 ```advocacy```
 ```mentoring```
 ```collaboration```
 ```empathy```
 ```influence```
 ```analytical```
+```leadership```
 
-**Soft Skills**: Team leadership, Mentoring and coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Technical writing, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Problem-solving, Innovation management, Creative thinking, Design thinking, Continuous improvement, Adaptability, Stakeholder management, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Problem-solving, Process improvement, Customer-centric mindset, User experience design, Customer relationship management, Product development, Market research, Lean principles, Iterative development, Relationship building, Conflict resolution, Empathy
-**Programming**: ASP.NET C#, Java, Angular, React, Python, JavaScript, TypeScript, UML and AML, Rest, GraphQL
+**Soft Skills**: Team leadership, Mentoring and coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Technical writing, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Problem-solving, Innovation management, Creative thinking, Design thinking, Continuous improvement, Adaptability, Stakeholder management, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Process improvement, Customer-centric mindset, Customer relationship management, Product development, Market research, Lean principles, Iterative development, Relationship building, Conflict resolution, Empathy
 **Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
-**Devops**: Git, Bitbucket, GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines), Docker
-**Azure**: Event Hub, Event Grid, Functions, Data Factory, Logic Apps, Service Bus, AKS/Kubernetes, Cosmos DB, Synapse Analytics, Cognitive Services, Azure ML Services and ML Ops, Azure Sphere, IoT Hub, Azure IoT Central, Digital Twins, Time Series Insights, IoT Edge Runtime, Spatial Anchors, Remote Rendering, Hololens
-**AWS**: IoT Core, Device Manager, Lambda, Kinesis, EKS/Kubernetes, AppSync, Sitewise, Sagemaker, Aurora, DynamoDB, Greengrass v2, “Snow” device family
-**Data**: Databricks, Snowflake, Kafka/Confluent Cloud, Microsoft SQL Server, MySQL, PostgreSQL, Neo4j
+**Devops**: Git, Bitbucket, GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines)
+**Cloud**: Elasticity and Auto-scaling, Microservices, Serverless Computing, Containerization, Event-driven Architecture, Distributed Data Processing, DevOps and Continuous Delivery, Global Load Balancing, Data Replication and High Availability, Serverless Data Processing, Data Mesh, Internet of Things, Machine Learning, Generative AI
+**Programming**: ASP.NET C#, Java, Angular, React, Python, JavaScript, TypeScript, Rest, GraphQL
 
 ## Experience
 
@@ -47,13 +46,12 @@ Winter 2021 - Present
 
 - Spearhead architecture and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
 - Provide expert architectural oversight and leadership for key brand digital initiatives, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
-- Successfully implement cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining optimal performance and scalability.
-- Design robust data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling seamless integration across supply chain, manufacturing, marketing, demand, and research use cases.
+- Successfully implement cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining or improving performance and scalability.
+- Design robust data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling future integrations across supply chain, manufacturing, marketing, demand, and research use cases.
 - Innovate event and stream-based patterns to decouple systems, enhance data sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
 - Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
 
-\newpage
 ### Principal Product Manager, 3M: Consumer Business Group
 Winter 2022 - Present
 
