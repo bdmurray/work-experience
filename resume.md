@@ -35,8 +35,8 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 
 **Soft Skills**: Team leadership, Mentoring and coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Technical writing, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Problem-solving, Innovation management, Creative thinking, Design thinking, Continuous improvement, Adaptability, Stakeholder management, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Process improvement, Customer-centric mindset, Customer relationship management, Product development, Market research, Lean principles, Iterative development, Relationship building, Conflict resolution, Empathy
 **Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
-**Devops**: Git, Bitbucket, GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines)
 **Cloud**: Elasticity and Auto-scaling, Microservices, Serverless Computing, Containerization, Event-driven Architecture, Distributed Data Processing, DevOps and Continuous Delivery, Global Load Balancing, Data Replication and High Availability, Serverless Data Processing, Data Mesh, Internet of Things, Machine Learning, Generative AI
+**Devops**: Git, Bitbucket, GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines)
 **Programming**: ASP.NET C#, Java, Angular, React, Python, JavaScript, TypeScript, Rest, GraphQL
 
 ## Experience
@@ -58,11 +58,11 @@ Winter 2022 - Present
 - Serve as Technical Product Owner for high-profile projects, including Post-it for Microsoft Teams CEO Summit collaboration with 3M and Microsoft CEOs, as well as Post-it mobile applications.
 - Lead a cross-functional team of 40 experts in design, cloud and mobile development, data, and machine learning, overseeing a budget of $2M per quarter.
 - Drive knowledge transfer from agency consulting to a work-for-hire contractor model, internalizing critical expertise, saving $1.5M/quarter, and accelerating delivery velocity by over 2x.
-- Lead technical security review for SOC2 and Microsoft Application security initiatives, ensuring compliance and safeguarding sensitive customer data.
+- Lead internal and external security review for SOC2 and Microsoft Application security initiatives, ensuring compliance and safeguarding sensitive customer data.
 - Developed key business personas to inform roadmap and enhance sales enablement efforts, aligning product development with customer needs.
 - Establish a comprehensive multi-year roadmap, leveraging increased velocity and aligning with evolving customer demands, while considering key personas and user requirements.
 - Coordinate technical aspects of the program across design, legal, financial, compliance, security, and engineering teams, ensuring seamless collaboration and successful project execution.
-- Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, and cloud environment isolation.
+- Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, encyption, and cloud environment/data isolation.
 - Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
 
 ### Chief Solutions Architect, 3M: Corporate Research
@@ -112,7 +112,7 @@ Spring 2000 - Summer 2003
 ### Air Freight Consultant, Unisys
 Winter 1998 – Spring 2000
 
-- Implemented performance enhancements to real-time airline cargo delivery and tracking systems.
+- Implemented performance enhancements to globally distributed real-time airline cargo delivery and tracking systems.
 - Project planning, programmer, development, and international client installations and troubleshooting.
 - Primary developer responsible for integrating the back-end mainframe system with an online booking request and tracking system. This online component was deployed extensively and utilized globally.
 
@@ -127,6 +127,7 @@ Winter 1998 – Spring 2000
 
 ## Projects
 
+- Post-it for Microsoft Teams (2021-2023). Enhance collaboration and communication within the Microsoft Teams platform by introducing a digital Post-it note platform. Provided architecture alignment and product ownership throughout the life of the program. Supported physical to digital capture application improvements. Azure, Kubernetes, PostgreSQL, ADLSv2, Infrastructure as Code, Machine Learning, Optical Character Recognition (OCR)
 - Consumer Business Group Data Mesh (2022+). Created architecture, roadmap and platforms to treat data as a product, increase sharing, decouple systems and establish governance. Presently onboarding platforms through vendors and creating a serverless / event based end to end data mesh & domains. Databricks, Event Hub, Data Factory, Synapse Analytics, Analysis Services, PowerBI
 - Process Manufacturing (2020-2021). Chief solutions architect to four team effort to improve process improvement manufacturing at 3M. Guided teams to reduce reliance on custom code through an edge kappa based architecture leveraging a combination of zero touch deployment, cloud based edge runtimes and open source software packages. This further allowed line to line and nested edge scenarios to support high throughput low latency cloud based model training and edge model deployment.
 - 3M Corporate Platforms (2017+). Chief solutions architect and chief product owner for the corporate platforms leveraged by various divisions and internal projects at 3M. Key contributions included isolated multi-tenancy, regional data aggregation, the release of the platform to open source, division product releases, cost and scaling optimizations, configuration/infrastructure as code 
