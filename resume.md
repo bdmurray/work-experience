@@ -41,18 +41,6 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 
 ## Experience
 
-### Principal Product Manager, 3M: Consumer Business Group
-Winter 2022 - Present
-
-- Serve as Technical Product Owner for high-profile projects, including Post-it for Microsoft Teams CEO Summit collaboration with 3M and Microsoft CEOs, as well as Post-it mobile applications.
-- Lead a cross-functional team of 40 experts in design, cloud and mobile development, data, and machine learning, overseeing a budget of $2M per quarter.
-- Drive knowledge transfer from agency consulting to a work-for-hire contractor model, internalizing critical expertise, saving $1.5M/quarter, and accelerating delivery velocity by over 2x.
-- Lead internal and external security review for SOC2 and Microsoft Application security initiatives, ensuring compliance and safeguarding sensitive customer data.
-- Developed key business personas to inform roadmap and enhance sales enablement efforts, aligning product development with customer needs.
-- Establish a comprehensive multi-year roadmap, leveraging increased velocity and aligning with evolving customer demands, while considering key personas and user requirements.
-- Coordinate technical aspects of the program across design, legal, financial, compliance, security, and engineering teams, ensuring seamless collaboration and successful project execution.
-- Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
-
 ### Chief Architect, 3M: Consumer Business Group
 Winter 2021 - Present
 
@@ -64,6 +52,18 @@ Winter 2021 - Present
 - Innovate event and stream-based patterns to decouple systems, enhance data sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
 - Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
+
+### Principal Product Manager, 3M: Consumer Business Group
+Winter 2022 - Present
+
+- Serve as Technical Product Owner for high-profile projects, including Post-it for Microsoft Teams CEO Summit collaboration with 3M and Microsoft CEOs, as well as Post-it mobile applications.
+- Lead a cross-functional team of 40 experts in design, cloud and mobile development, data, and machine learning, overseeing a budget of $2M per quarter.
+- Drive knowledge transfer from agency consulting to a work-for-hire contractor model, internalizing critical expertise, saving $1.5M/quarter, and accelerating delivery velocity by over 2x.
+- Lead internal and external security review for SOC2 and Microsoft Application security initiatives, ensuring compliance and safeguarding sensitive customer data.
+- Developed key business personas to inform roadmap and enhance sales enablement efforts, aligning product development with customer needs.
+- Establish a comprehensive multi-year roadmap, leveraging increased velocity and aligning with evolving customer demands, while considering key personas and user requirements.
+- Coordinate technical aspects of the program across design, legal, financial, compliance, security, and engineering teams, ensuring seamless collaboration and successful project execution.
+- Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
 
 ### Chief Solutions Architect, 3M: Corporate Research
 Fall 2017 - Winter 2021
