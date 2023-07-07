@@ -36,8 +36,8 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 **Soft Skills**: Team leadership, Mentoring and coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Technical writing, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Problem-solving, Innovation management, Creative thinking, Design thinking, Continuous improvement, Adaptability, Stakeholder management, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Process improvement, Customer-centric mindset, Customer relationship management, Product development, Market research, Lean principles, Iterative development, Relationship building, Conflict resolution, Empathy
 **Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
 **Cloud**: Elasticity and Auto-scaling, Microservices, Serverless Computing, Containerization, Event-driven Architecture, Distributed Data Processing, DevOps and Continuous Delivery, Global Load Balancing, Data Replication and High Availability, Serverless Data Processing, Data Mesh, Internet of Things, Machine Learning, Generative AI
-**Devops**: Git, Bitbucket, GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines)
-**Programming**: ASP.NET C#, Java, Angular, React, Python, JavaScript, TypeScript, Rest, GraphQL
+**Devops**: GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines)
+**Programming**: ASP.NET C#, Java, Angular, React, Python, TypeScript
 
 ## Experience
 
@@ -51,7 +51,6 @@ Winter 2022 - Present
 - Developed key business personas to inform roadmap and enhance sales enablement efforts, aligning product development with customer needs.
 - Establish a comprehensive multi-year roadmap, leveraging increased velocity and aligning with evolving customer demands, while considering key personas and user requirements.
 - Coordinate technical aspects of the program across design, legal, financial, compliance, security, and engineering teams, ensuring seamless collaboration and successful project execution.
-- Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, encyption, and cloud environment/data isolation.
 - Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
 
 ### Chief Architect, 3M: Consumer Business Group
@@ -59,6 +58,7 @@ Winter 2021 - Present
 
 - Spearhead architecture and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
 - Provide expert architectural oversight and leadership for key brand digital initiatives, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
+- Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, encyption, and cloud environment/data isolation.
 - Successfully implement cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining or improving performance and scalability.
 - Design robust data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling future integrations across supply chain, manufacturing, marketing, demand, and research use cases.
 - Innovate event and stream-based patterns to decouple systems, enhance data sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
