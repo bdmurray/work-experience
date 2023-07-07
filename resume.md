@@ -41,17 +41,6 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 
 ## Experience
 
-### Chief Architect, 3M: Consumer Business Group
-Winter 2021 - Present
-
-- Spearhead architecture and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
-- Provide expert architectural oversight and leadership for key brand digital initiatives, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
-- Successfully implement cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining or improving performance and scalability.
-- Design robust data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling future integrations across supply chain, manufacturing, marketing, demand, and research use cases.
-- Innovate event and stream-based patterns to decouple systems, enhance data sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
-- Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
-- Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
-
 ### Principal Product Manager, 3M: Consumer Business Group
 Winter 2022 - Present
 
@@ -64,6 +53,17 @@ Winter 2022 - Present
 - Coordinate technical aspects of the program across design, legal, financial, compliance, security, and engineering teams, ensuring seamless collaboration and successful project execution.
 - Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, encyption, and cloud environment/data isolation.
 - Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
+
+### Chief Architect, 3M: Consumer Business Group
+Winter 2021 - Present
+
+- Spearhead architecture and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
+- Provide expert architectural oversight and leadership for key brand digital initiatives, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
+- Successfully implement cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining or improving performance and scalability.
+- Design robust data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling future integrations across supply chain, manufacturing, marketing, demand, and research use cases.
+- Innovate event and stream-based patterns to decouple systems, enhance data sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
+- Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
+- Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
 
 ### Chief Solutions Architect, 3M: Corporate Research
 Fall 2017 - Winter 2021
@@ -121,6 +121,7 @@ Winter 1998 – Spring 2000
 - Microsoft Certified: Azure Solutions Architect Expert
 - AWS Certified Solutions Architect - Associate
 - Scrum Inc. Certified Scrum Product Owner (CSPO)
+- Databricks Lakehouse Fundamentals
 - 3M 2022 Circle of Technical Excellence and Innovation: Awarded Consumer Business Group level CTEI award for contributions to Post-it digital initiatives.
 - 3M 2020 Circle of Technical Excellence and Innovation: Honorable mention for architectural work completed related to multimodal communication and connected PPE.
 - 3M 2019 Circle of Technical Excellence and Innovation: Awarded corporate lab level CTEI award for leadership, professionalism, contributions to 3M's products, processes, technology or programs, and innovation.
