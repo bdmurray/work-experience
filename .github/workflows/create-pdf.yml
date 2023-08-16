@@ -3,8 +3,6 @@ name: Create PDF File
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
 
 jobs:
   convert_via_pandoc:
