@@ -6,7 +6,7 @@ margin-bottom: 2cm
 title: Brad Murray
 description-meta: 'Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A passionate and proven leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at creating a collaborative environment with cross-functional teams and stakeholders to align technology with business objectives. A strong advocate for mentorship and knowledge sharing.'
 keywords:
-  - 'Architecture'
+  - 'Architecture' 
   - 'IoT and Edge Computing'
   - 'Cloud Architecture and Development'
   - 'Data Analytics and Machine Learning'
