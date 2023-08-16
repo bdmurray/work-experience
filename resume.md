@@ -33,10 +33,10 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 ```analytical```
 ```leadership```
 
-**Soft Skills**: Team leadership, Mentoring and coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Innovation management, Creative thinking, Design thinking, Continuous improvement, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Customer-centric mindset, Product development, Market research, Lean principles, Iterative development, Conflict resolution, Empathy
+**Soft Skills**: Team leadership, Mentoring, Coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Public speaking, Roadmap development, Strategic vision, Business acumen, Decision-making, Innovation management, Creative thinking, Design thinking, Continuous improvement, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Customer-centric mindset, Product development, Market research, Lean principles, Iterative development, Conflict resolution, Empathy
 **Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
 **Cloud**: Elasticity and Auto-scaling, Microservices, Serverless Computing, Containerization, Event-driven Architecture, Distributed Data Processing, DevOps and Continuous Delivery, Global Load Balancing, Data Replication and High Availability, Serverless Data Processing, Data Mesh, Internet of Things, Machine Learning, Generative AI
-**Devops**: GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines)
+**DevOps**: GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines)
 **Programming**: ASP.NET C#, Java, Angular, React, Python, TypeScript
 
 ## Experience
@@ -44,12 +44,12 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 ### Chief Architect, 3M: Consumer Business Group
 Winter 2021 - Present
 
-- Spearhead architecture and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
+- Lead architecture and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
 - Provide expert architectural oversight and leadership for key brand digital initiatives, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
-- Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, encyption, and cloud environment/data isolation.
+- Provide strategic architectural leadership in key areas such as Identity and Access Management (IAM), sales fulfillment, licensing solutions, encryption, and cloud environment/data isolation.
 - Successfully implement cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining or improving performance and scalability.
 - Design robust data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling future integrations across supply chain, manufacturing, marketing, demand, and research use cases.
-- Innovate event and stream-based patterns to decouple systems, enhance data sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
+- Innovate event and stream-based patterns to decouple systems, enhance data-sharing capabilities, and enable previously challenging ML experiments, earning the trust of the developer community.
 - Actively provide training, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
 
@@ -87,14 +87,14 @@ Summer 2018 - Winter 2021
 - Chief Product Owner (CPO) for corporate products and platforms related to AI/ML/Data, IoT/Edge/Robotics, High Performance Compute (HPC) and Developer Platform, and Tooling.
 - Provided vision, leadership, and roadmaps for 6 teams, 50 team members, and a budget of $3M+ annually.
 - Created cross-organizational alignment with other CPOs by shifting focus from platforms to enablement.
-- Reduced contingent workforce spend by $1M annually by shifting from build to buy for non-differentiated platforms. Also accelerated platform availability by over one year from original estimates.
+- Reduced contingent workforce spending by $1M annually by shifting from build to buy for non-differentiated platforms. Also accelerated platform availability by over one year from original estimates.
 - Supported global efforts in 3 regions and 7 countries.
 
 ### Chief Solutions Architect, Risdall Marketing Group
 Summer 2003 - Fall 2017
 
-- Provided architecture, program management and product solutions for startups and enterprises.
-- Formalized in-house architectural patterns, practices, standards and customer engagement models.
+- Provided architecture, program management, and product solutions for startups and enterprises.
+- Formalized in-house architectural patterns, practices, standards, and customer engagement models.
 - Selected, implemented, and maintained key partnerships with Adobe, Google, Microsoft, and Sitecore.
 - Primary technical sales leader. Established and adapted sales practices around current technology trends.
 - Responsible for monitoring project financials, estimation, budgeting, resource allocation, and forecasting.
@@ -113,7 +113,7 @@ Spring 2000 - Summer 2003
 Winter 1998 – Spring 2000
 
 - Implemented performance enhancements to globally distributed real-time airline cargo delivery and tracking systems.
-- Project planning, programmer, development, and international client installations and troubleshooting.
+- Project planning, programming, development, and international client installations and troubleshooting.
 - Primary developer responsible for integrating the back-end mainframe system with an online booking request and tracking system. This online component was deployed extensively and utilized globally.
 
 ## Certifications and Awards
@@ -129,8 +129,8 @@ Winter 1998 – Spring 2000
 ## Projects
 
 - Post-it for Microsoft Teams (2021-2023). Enhance collaboration and communication within the Microsoft Teams platform by introducing a digital Post-it note platform. Provided architecture alignment and product ownership throughout the life of the program. Supported physical to digital capture application improvements. Azure, Kubernetes, PostgreSQL, ADLSv2, Infrastructure as Code, Machine Learning, Optical Character Recognition (OCR)
-- Consumer Business Group Data Mesh (2022+). Created architecture, roadmap and platforms to treat data as a product, increase sharing, decouple systems and establish governance. Presently onboarding platforms through vendors and creating a serverless / event based end to end data mesh & domains. Databricks, Event Hub, Data Factory, Synapse Analytics, Analysis Services, PowerBI
-- Process Manufacturing (2020-2021). Chief solutions architect to four team effort to improve process improvement manufacturing at 3M. Guided teams to reduce reliance on custom code through an edge kappa based architecture leveraging a combination of zero touch deployment, cloud based edge runtimes and open source software packages. This further allowed line to line and nested edge scenarios to support high throughput low latency cloud based model training and edge model deployment.
+- Consumer Business Group Data Mesh (2022+). Created architecture, roadmap, and platforms to treat data as a product, increase sharing, decouple systems and establish governance. Presently onboarding platforms through vendors and creating a serverless / event based end to end data mesh & domains. Databricks, Event Hub, Data Factory, Synapse Analytics, Analysis Services, PowerBI
+- Process Manufacturing (2020-2021). Chief solutions architect to four team effort to improve process improvement manufacturing at 3M. Guided teams to reduce reliance on custom code through an edge kappa-based architecture leveraging a combination of zero-touch deployment, cloud-based edge runtimes and open-source software packages. This further allowed line-to-line and nested edge scenarios to support high throughput low latency cloud-based model training and edge model deployment.
 - 3M Corporate Platforms (2017+). Chief solutions architect and chief product owner for the corporate platforms leveraged by various divisions and internal projects at 3M. Key contributions included isolated multi-tenancy, regional data aggregation, the release of the platform to open source, division product releases, cost and scaling optimizations, configuration/infrastructure as code 
 - Manufacturing Product Tool (2016). Architected and developed an online administration tool to catalog products, parts, replacement parts, and all related resources (manuals, media). Allows for instant faceted searching by end-users and internationalization with regional availability.  Angular, C#, ASP.NET, SQL
 - Mental Health Assessment Tool (2010). Worked closely with a clinical psychologist to create a mental health assessment tool. The tool will capture a user's story and compare the captured information against the DSM to make clinical recommendations and rule-outs. Deployed internationally.  Knockout, C#, ASP.NET, SQL
