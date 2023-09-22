@@ -480,8 +480,8 @@ a {
 
 body {
     background-color: #fff;
-    padding: 10px; /* 30px */
-    margin: 10px; /* 15px */
+    padding: 4px; /* 30px */
+    margin: 4px; /* 15px */
     font-size: 14px;
     line-height: 1.6
 }
