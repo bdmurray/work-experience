@@ -108,6 +108,7 @@ November 1998 – April 2000
 - 3M 2022 Circle of Technical Excellence and Innovation: Awarded Consumer Business Group level CTEI award for contributions to Post-it digital initiatives.
 - 3M 2020 Circle of Technical Excellence and Innovation: Honorable mention for architectural work completed related to multimodal communication and connected PPE.
 - 3M 2019 Circle of Technical Excellence and Innovation: Awarded corporate lab level CTEI award for leadership, professionalism, contributions to 3M's products, processes, technology or programs, and innovation.
+- [Patent WO2023105370: Article of Personal Protective Equipment and System](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023105370&_cid=P21-LMUTD8-26041-1)
 
 ## Education
 
@@ -120,8 +121,7 @@ November 1998 – April 2000
 - Process Manufacturing (2020-2021). Chief solutions architect to four team effort to improve process improvement manufacturing at 3M. Guided teams to reduce reliance on custom code through an edge kappa-based hybrid cloud architecture leveraging a combination of zero-touch deployment strategies, cloud-based edge runtimes and open-source software development packages. This further allowed line-to-line and nested edge scenarios to support high throughput low latency cloud-based model training and edge model deployments.
 - KCI & Acelity Acquisition Support (2019). Advised and onboarded KCI & Acelity as part of 3M acquisition. Provided architectural direction for various medical informatics solutions including in-home care IoT solutions for patients, wound monitoring, and process manufacturing. 
 - 3M Corporate Platforms (2017+). Chief solutions architect and chief product owner for the corporate platforms leveraged by various divisions and internal projects at 3M. Key contributions included isolated multi-tenancy, regional data aggregation, the release of the platform to open source, division product releases, cost and scaling optimizations, configuration/infrastructure as code
-- Manufacturing Product Tool (2016). Architected and developed an online administration tool to catalog products, parts, replacement parts, and all related resources (manuals, media). Allows for instant faceted searching by end-users and internationalization with regional availability. Angular, C#, ASP.NET, SQL
-- Mental Health Assessment Tool (2010). Worked closely with a clinical psychologist to create a medical patient mental health assessment tool. The tool will capture a medical patient's story and compare the captured information against the DSM to make clinical recommendations for patient care. Deployed internationally in the Netherlands. Knockout, C#, ASP.NET, SQL
+- Mental Health Assessment Tool (2010). Worked closely with a clinical psychologist to create a medical patient mental health assessment tool. The tool will capture a medical patient's story and compare the captured information against the DSM to make clinical recommendations for patient care. Deployed internationally in the Netherlands.
 
 ## Skills
 
