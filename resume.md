@@ -92,7 +92,7 @@ April 2000 - June 2003
 - Implemented performance enhancements to globally distributed real-time airline cargo delivery and tracking systems.
 - In-country experience working with regional airlines on deployments in China and Europe
 - Project planning, programming, development, and international client installations and troubleshooting.
-- Primary developer responsible for integrating the back-end mainframe system with an online booking request and tracking system. This online component was deployed extensively and utilized globally.
+- Primary developer responsible for globally deployed and utilitzed online booking request and tracking system.
 
 ### Air Freight Consultant, Unisys
 November 1998 – April 2000
