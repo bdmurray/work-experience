@@ -51,7 +51,7 @@ January 2022 - Present
 - Ideation to implementation of key monetization strategies to support the 2024 conversion of a free to paid app with a projected first year $1M revenue capture.
 
 ### Chief Solutions Architect, 3M: Corporate Research
-Fall 2017 - Winter 2021
+October 2017 - December 2021
 
 - Chief Solutions Architect for three top corporate-wide initiatives related to informatics, multimodal communication, and factory automation.
 - Recognized internal expert for the Internet of Things (IoT) and Edge supporting additional projects related to the digital factory, materials process improvement, and commercial product releases.
