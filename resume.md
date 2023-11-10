@@ -128,6 +128,16 @@ November 1998 – April 2000
 
 ## Skills
 
+```cloud```
+```architecture```
+```advocacy```
+```mentoring```
+```collaboration```
+```empathy```
+```influence```
+```analytical```
+```leadership```
+
 **Soft Skills**:  Team leadership, Mentoring, Coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Public speaking, Roadmap development, Strategic vision, Self Directed, Business acumen, Decision-making, Innovation management, Creative thinking, Design thinking, Continuous improvement, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Attentive, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Customer-centric mindset, Product development, Market research, Lean principles, Iterative development, Conflict resolution, Empathy
 **Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
 **Cloud**: Elasticity and Auto-scaling, Microservices, Serverless Computing, Containerization, Event-driven Architectures, Distributed Data Processing, Global Load Balancing, High Availability, Serverless Data Processing, Data Mesh, Internet of Things, Machine Learning, Generative AI, LLMs 
