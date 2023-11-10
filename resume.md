@@ -35,6 +35,7 @@ January 2021 - Present
 - Actively provide training, teaching, facilitating, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the senior executive leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
 - Provide intellectual property review and support for invention submissions and trade secret ideation.
+- Currently leading architecture and executive level planning for three generative AI programs focused on responsive content generation, dynamic analytics, and mobile agents
 
 ### Principal Product Manager, 3M: Consumer Business Group
 January 2022 - Present
@@ -126,16 +127,6 @@ November 1998 – April 2000
 - Mental Health Assessment Tool (2010). Partnered with a clinical psychologist to create a medical patient mental health assessment tool. The tool will capture a medical patient's story and compare the captured information against the DSM to make clinical recommendations for patient care. Deployed internationally in the Netherlands.
 
 ## Skills
-
-```cloud```
-```architecture```
-```advocacy```
-```mentoring```
-```collaboration```
-```empathy```
-```influence```
-```analytical```
-```leadership```
 
 **Soft Skills**:  Team leadership, Mentoring, Coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Public speaking, Roadmap development, Strategic vision, Self Directed, Business acumen, Decision-making, Innovation management, Creative thinking, Design thinking, Continuous improvement, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Attentive, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Customer-centric mindset, Product development, Market research, Lean principles, Iterative development, Conflict resolution, Empathy
 **Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
