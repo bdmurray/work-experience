@@ -34,6 +34,7 @@ January 2021 - Present
 - Innovate event and stream-based patterns to decouple complex systems, enhance data-sharing capabilities, provide efficient data storage, and enable previously challenging ML experiments, earning the trust of the developer community.
 - Actively provide training, teaching, facilitating, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the senior executive leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
+- 
 
 ### Principal Product Manager, 3M: Consumer Business Group
 January 2022 - Present
@@ -46,6 +47,7 @@ January 2022 - Present
 - Establish a comprehensive multi-year roadmap, leveraging increased velocity and aligning with evolving customer demands, while considering key personas and user requirements.
 - Coordinate technical aspects of the program across design, legal, financial, compliance, cyber security, and engineering teams, ensuring seamless collaboration and successful project execution.
 - Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
+- 
 
 ### Chief Solutions Architect, 3M: Corporate Research
 Fall 2017 - Winter 2021
