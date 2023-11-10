@@ -115,14 +115,14 @@ November 1998 – April 2000
 
 ## Education
 
-### B.S. in Computer Science with Minors in Business Administration and Mathematics, Bemidji State University
+#### Bemidji State University: B.S. in Computer Science with Minors in Business Administration and Mathematics
 
 ## Projects
 
 - Post-it for Microsoft Teams (2021-2023). Enhance collaboration and communication within the Microsoft Teams platform by introducing a digital Post-it note platform. Provided architecture alignment and product ownership throughout the life of the program. Supported physical to digital capture applications. Azure, Kubernetes, PostgreSQL, ADLSv2, Infrastructure as Code, Machine Learning, Optical Character Recognition (OCR)
 - Consumer Business Group Data Mesh (2022+). Created cloud & data architecture, roadmap, and platforms to treat data as a product, increase sharing, decouple systems, and establish governance. Presently onboarding internal stakeholders creating a serverless/event-based end-to-end data mesh life cycle. Coach and advise on topics such as governance and data ownership. Databricks, Event Hub, Data Factory, Synapse Analytics, Analysis Services, PowerBI
 - Process Manufacturing (2020-2021). Chief solutions architect to four team effort to improve process improvement manufacturing at 3M. Guided teams to reduce reliance on custom code through an edge kappa-based hybrid cloud architecture leveraging a combination of zero-touch deployment strategies, cloud-based edge runtimes and open-source software development packages. This further allowed line-to-line and nested edge scenarios to support high throughput low latency cloud-based model training and edge model deployments.
-- KCI & Acelity Acquisition Support (2019). Advised and onboarded KCI & Acelity as part of 3M acquisition. Provided architectural direction for medical informatics solutions including in-home care IoT solutions for patients, wound monitoring, and process manufacturing. 
+- KCI & Acelity Acquisition Support (2019). Onboarded KCI & Acelity as part of 3M acquisition. Provided architecture for medical solutions including in-home care IoT solutions for patients, wound monitoring, and process manufacturing. 
 - 3M Corporate Platforms (2017+). Chief solutions architect and chief product owner for the corporate platforms leveraged by divisions and internal projects at 3M. Key contributions included isolated multi-tenancy, regional data aggregation, the release of the platform to open source, division product releases, cost and scaling optimizations, configuration/infrastructure as code
 - Mental Health Assessment Tool (2010). Partnered with a clinical psychologist to create a medical patient mental health assessment tool. The tool will capture a medical patient's story and compare the captured information against the DSM to make clinical recommendations for patient care. Deployed internationally in the Netherlands.
 
