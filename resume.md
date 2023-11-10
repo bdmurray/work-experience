@@ -89,10 +89,10 @@ June 2003 - October 2017
 ### Senior Web Engineer. Shavlik Technologies
 April 2000 - June 2003
 
-- Implemented performance enhancements to globally distributed real-time airline cargo delivery and tracking systems.
-- In-country experience working with regional airlines on deployments in China and Europe
-- Project planning, programming, development, and international client installations and troubleshooting.
-- Primary developer responsible for globally deployed and utilitzed online booking request and tracking system.
+- Lead web engineer. Analyzed client needs, gathered requirements, software architecture, proposal writing, estimating, client-facing technical sales support, prototype creation, and day-to-day account management.
+- Performed security audits of network/server installations, root cause analysis, and secure code reviews.
+- Implemented standard practices of secure coding templates for reuse by other consultants.
+- Lead contributor to Microsoft Baseline Security Analyzer co-developed with Microsoft.
 
 ### Air Freight Consultant, Unisys
 November 1998 – April 2000
@@ -100,7 +100,7 @@ November 1998 – April 2000
 - Implemented performance enhancements to globally distributed real-time airline cargo delivery and tracking systems.
 - In-country experience working with regional airlines on deployments in China and Europe
 - Project planning, programming, development, and international client installations and troubleshooting.
-- Primary developer responsible for integrating the back-end mainframe system with an online booking request and tracking system. This online component was deployed extensively and utilized globally.
+- Primary developer responsible for globally deployed and utilitzed online booking request and tracking system.
 
 ## Certifications and Awards
 
