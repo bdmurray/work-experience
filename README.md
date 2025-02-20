@@ -27,4 +27,4 @@ This repo was an experiment I conducted attempting to convert rough work experie
  - LinkedIn Premium is also great to get you to the right jobs that you are already highly qualified for. Leveraging this material also improved the results I was provided in the job search.
  - Don't forget to network. Nothing is more powerful than the network effect during a search.
 
-If you have questions [contact me](mailto:bdmurray@gmail.com)
+If you have questions [contact me](mailto:bdmurray+github@gmail.com)
