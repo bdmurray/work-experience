@@ -3,23 +3,18 @@ margin-left: 1cm
 margin-right: 1cm
 margin-top: 1cm
 margin-bottom: 1cm
-title: Brad Murray
-description-meta: 'Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A passionate and proven leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at creating a collaborative environment with cross-functional teams and stakeholders to align technology with business objectives. A strong advocate for mentorship and knowledge sharing.'
+title: Tracy Murray
+description-meta: 'Long Description'
 keywords:
-  - 'Architecture' 
-  - 'IoT and Edge Computing'
-  - 'Cloud Architecture and Development'
-  - 'Data Analytics and Machine Learning'
-  - 'Agile Methodologies'
-  - 'Technical Leadership and Mentorship'
-  - 'Strategic Planning and Roadmapping'
+  - 'Example1' 
+  - 'Example2'
 author:
-- Brad Murray
-subject: 'Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions.'
+- Tracy Murray
+subject: 'Short Description'
 ---
-###### [LinkedIn](https://www.linkedin.com/in/bfdmurray) . bdmurray@gmail.com . (651) 341-9958
+###### [LinkedIn](https://www.linkedin.com/in/tlynnmurray/) . tracy.l.murray@gmail.com . (651) 341-9962
 
-##### Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A passionate and proven leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at creating a collaborative environment with cross-functional teams and stakeholders to align technology with business objectives. A strong advocate for mentorship, diversity of thought, and knowledge sharing.
+##### Long Description
 
 ## Experience
 
