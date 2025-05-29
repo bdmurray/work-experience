@@ -19,12 +19,21 @@ subject: 'Highly accomplished Chief Architect with a proven track record of driv
 ---
 ###### [LinkedIn](https://www.linkedin.com/in/bfdmurray) . bdmurray@gmail.com . (651) 341-9958
 
-##### Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A passionate and proven leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at creating a collaborative environment with cross-functional teams and stakeholders to align technology with business objectives. A strong advocate for mentorship, diversity of thought, and knowledge sharing.
+##### Technical Fellow specializing in enterprise cloud modernization, multi-cloud architecture, and hosting transformation. I drive global cloud enablement initiatives, delivering solutions that expand sovereign, commercial, and mission-critical capabilities across diverse industries. Passionate about accelerating infrastructure modernization through reusable, immutable frameworks, security-first architectures, and automation at scale. With over two decades of experience, I blend deep technical expertise with strategic leadership, helping organizations bridge traditional hosting with cloud-native futures. A strong advocate for mentorship, knowledge sharing, and technical community development, I focus on fostering high-impact teams and sustainable innovation.
 
 ## Experience
 
+### Technical Fellow – Cloud & Hosting Modernization, RTX
+April 2024 - Present
+
+- Drives global cloud expansion by contributing to the delivery of a secure Azure Non-Government tenant, unlocking sovereign workload capabilities for both government and commercial sectors. 
+- Actively contributes to the design and adoption of a reusable, Immutable Infrastructure framework, accelerating cloud solution delivery, promoting Inner Source collaboration, and modernizing deployment strategies across RTX. 
+- Plays a key role in advancing multi-cloud security and compliance maturity by supporting initiatives such as Cloud Infrastructure Entitlement Management (CIEM), Attribute-Based Access Control (ABAC), and agentless transient compute adoption. 
+- Provides architectural leadership for critical factory resiliency initiatives, applying edge computing strategies to de-risk manufacturing operations and guide the first Proof of Concept deployments. 
+- Dedicated to technical community growth, mentoring emerging architects, delivering educational sessions, and fostering cross-team collaboration to strengthen cloud adoption and build a resilient, future-ready talent pipeline.
+
 ### Chief Architect, 3M: Consumer Business Group
-January 2021 - Present
+January 2021 - April 2024
 
 - Lead architectural design and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
 - Provide expert architectural oversight and leadership for key brand digital strategy, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
