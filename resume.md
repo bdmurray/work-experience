@@ -45,10 +45,10 @@ January 2021 - April 2024
 - Actively provide training, teaching, facilitating, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the senior executive leadership level.
 - Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
 - Provide intellectual property review and support for invention submissions and trade secret ideation.
-- Currently leading architecture and executive level planning for three generative AI programs focused on responsive content generation, dynamic analytics, and mobile agents
+- Led architecture and executive level planning for three generative AI programs focused on responsive content generation, dynamic analytics, and mobile agents
 
 ### Principal Product Manager, 3M: Consumer Business Group
-January 2022 - Present
+January 2022 - April 2024
 
 - Serve as Technical Product Owner for high-profile projects, including Post-it for Microsoft Teams CEO Summit collaboration with 3M and Microsoft CEOs, as well as Post-it mobile applications.
 - Lead a cross-functional team of 40 experts in design, cloud and mobile development, data, and machine learning, overseeing a commercial software development budget of $2M per quarter.
@@ -127,7 +127,7 @@ November 1998 – April 2000
 ### Patents & Filings
 - **[Patent WO2023105370: Article of Personal Protective Equipment and System](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023105370&_cid=P21-LMUTD8-26041-1)** (2023)
 - **3M Intellectual Property & Invention Submissions:** Contributed architectural designs and IP filings across Smart Grid Modernization (9 filings), Connected Safety / PPE (5 filings), and Filtrete Smart Products (2 filings).
-- 
+
 ### Honors & Awards
 - **3M Circle of Technical Excellence and Innovation (CTEI) Award (2022):** Consumer Business Group level award for architecture and technical leadership on Post-it digital initiatives.
 - **3M Circle of Technical Excellence and Innovation (CTEI) Award (2020):** Honorable Mention for enterprise architecture leadership in multimodal communication and connected PPE.
@@ -135,8 +135,8 @@ November 1998 – April 2000
 
 ## Education
 
-#### University of Minnesota: M.S. in Management of Technology (MOT) — Expected May 2027
-#### Bemidji State University: B.S. in Computer Science with Minors in Business Administration and Mathematics
+- **University of Minnesota: M.S. in Management of Technology (MOT)** — Expected May 2027
+- **Bemidji State University: B.S. in Computer Science with Minors in Business Administration and Mathematics**
 
 ## Projects
 
