@@ -4,33 +4,34 @@ margin-right: 1cm
 margin-top: 1cm
 margin-bottom: 1cm
 title: Brad Murray
-description-meta: 'Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions. A passionate and proven leader with expertise in architecture, cloud computing, product development, and team management. Skilled in driving strategic initiatives, optimizing processes, and fostering a culture of innovation. Recognized for effectively leveraging emerging technologies and delivering impactful results. Adept at creating a collaborative environment with cross-functional teams and stakeholders to align technology with business objectives. A strong advocate for mentorship and knowledge sharing.'
+description-meta: 'Technical Fellow specializing in enterprise cloud modernization, multi-cloud strategy, and sovereign cloud enablement. With over two decades of experience across aerospace, defense, and industrial R&D, I blend deep architectural mastery with strategic leadership to build secure, mission-critical platforms at global scale. I drive high-consequence transformations spanning international sovereign enclaves, smart-factory edge environments, and AI/HPC infrastructure, while architecting developer enablement ecosystems that compress concept-to-production cycle times from months to days. A committed mentor and executive advisor, I focus on shaping enterprise technology roadmaps, fostering engineering excellence, and cultivating fellow-caliber talent.'
 keywords:
-  - 'Architecture' 
-  - 'IoT and Edge Computing'
-  - 'Cloud Architecture and Development'
-  - 'Data Analytics and Machine Learning'
-  - 'Agile Methodologies'
-  - 'Technical Leadership and Mentorship'
-  - 'Strategic Planning and Roadmapping'
+  - 'Enterprise & Multi-Cloud Architecture'
+  - 'Sovereign Cloud & Global Compliance'
+  - 'Edge Computing & Smart Factory Modernization'
+  - 'Platform Engineering & Developer Velocity'
+  - 'AI Enablement & High-Performance Computing (HPC)'
+  - 'Strategic Roadmapping & Executive Governance'
+  - 'Technical Leadership & Fellowship Mentorship'
 author:
-- Brad Murray
-subject: 'Highly accomplished Chief Architect with a proven track record of driving digital transformation and delivering innovative solutions.'
+  - Brad Murray
+subject: 'Technical Fellow and Enterprise Architect with a proven track record of leading global cloud modernization, sovereign platform enablement, and mission-critical technical transformation.'
 ---
 ###### [LinkedIn](https://www.linkedin.com/in/bfdmurray) . bdmurray@gmail.com . (651) 341-9958
 
-##### Technical Fellow specializing in enterprise cloud modernization, multi-cloud architecture, and hosting transformation. I drive global cloud enablement initiatives, delivering solutions that expand sovereign, commercial, and mission-critical capabilities across diverse industries. Passionate about accelerating infrastructure modernization through reusable, immutable frameworks, security-first architectures, and automation at scale. With over two decades of experience, I blend deep technical expertise with strategic leadership, helping organizations bridge traditional hosting with cloud-native futures. A strong advocate for mentorship, knowledge sharing, and technical community development, I focus on fostering high-impact teams and sustainable innovation.
+##### Technical Fellow specializing in enterprise cloud modernization, multi-cloud strategy, and sovereign cloud enablement. With over two decades of experience across aerospace, defense, and industrial R&D, I blend deep architectural mastery with strategic leadership to build secure, mission-critical platforms at global scale. I drive high-consequence transformations spanning international sovereign enclaves, smart-factory edge environments, and AI/HPC infrastructure, while architecting developer enablement ecosystems that compress concept-to-production cycle times from months to days. A committed mentor and executive advisor, I focus on shaping enterprise technology roadmaps, fostering engineering excellence, and cultivating fellow-caliber talent.
 
 ## Experience
 
 ### Technical Fellow – Cloud & Hosting Modernization, RTX
 April 2024 - Present
 
-- Drives global cloud expansion by contributing to the delivery of a secure Azure Non-Government tenant, unlocking sovereign workload capabilities for both government and commercial sectors. 
-- Actively contributes to the design and adoption of a reusable, Immutable Infrastructure framework, accelerating cloud solution delivery, promoting Inner Source collaboration, and modernizing deployment strategies across RTX. 
-- Plays a key role in advancing multi-cloud security and compliance maturity by supporting initiatives such as Cloud Infrastructure Entitlement Management (CIEM), Attribute-Based Access Control (ABAC), and agentless transient compute adoption. 
-- Provides architectural leadership for critical factory resiliency initiatives, applying edge computing strategies to de-risk manufacturing operations and guide the first Proof of Concept deployments. 
-- Dedicated to technical community growth, mentoring emerging architects, delivering educational sessions, and fostering cross-team collaboration to strengthen cloud adoption and build a resilient, future-ready talent pipeline.
+- Global Sovereign Cloud Expansion: Spearheaded multi-cloud infrastructure strategy across EMEA and APAC, establishing secure sovereign enclaves for Pratt & Whitney, Collins Aerospace, and Raytheon. Unblocked 12+ mission-critical programs while navigating strict ITAR, EAR, and GDPR compliance boundaries.
+- Platform Engineering & Velocity: Architected a comprehensive enablement ecosystem—integrating reusable patterns, continuous compliance, developer portals, and automated pipelines—consolidating 70 manual ticket-based approval gates. Reduced concept-to-production cycle times from 100 days to 5 days, projecting 92,000 engineering hours and $11M–$12M in annual savings.
+- Factory Edge Resiliency: Pioneered Azure Local hybrid cloud architectures for advanced manufacturing, successfully deploying capabilities to an active factory and establishing the enterprise edge maturity standard. Catalyzed the formation of a dedicated Edge Resiliency engineering practice to de-risk shop-floor operations.
+- Executive Strategy & HPC Enablement: Authored high-impact technical whitepapers that secured executive adoption of Microsoft Fabric and Purview for unified enterprise data governance. Led the strategic onboarding of Oracle Cloud Infrastructure (OCI) to scale high-density GPU access, Rescale integration, and secure Cloud@Customer HPC workloads.
+- Cloud-Native Modernization: Driving the architectural transition from legacy "data center extension" models to autonomous, pure cloud-native landing zones. Initiated proofs-of-concept to systematically decouple network, identity, cyber, and legal policies from on-premises dependencies.
+- AI Architecture & Technical Mentorship: Champions AI-augmented architecture methodologies and context-driven design patterns across business units via internal symposiums and technical community leadership. Actively mentors senior engineering talent and guides candidates through the enterprise Technical Fellowship pipeline.
 
 ### Chief Architect, 3M: Consumer Business Group
 January 2021 - April 2024
@@ -109,31 +110,42 @@ November 1998 – April 2000
 - Implemented performance enhancements to globally distributed real-time airline cargo delivery and tracking systems.
 - In-country experience working with regional airlines on deployments in China and Europe
 - Project planning, programming, development, and international client installations and troubleshooting.
-- Primary developer responsible for globally deployed and utilitzed online booking request and tracking system.
+- Primary developer responsible for globally deployed and utilized online booking request and tracking system.
 
-## Certifications and Awards
+## Certifications, Patents & Awards
 
-- Microsoft Certified: Azure Solutions Architect Expert
-- AWS Certified Solutions Architect - Associate
-- Scrum Inc. Certified Scrum Product Owner (CSPO)
-- Databricks Lakehouse Fundamentals
-- 3M 2022 Circle of Technical Excellence and Innovation: Awarded Consumer Business Group level CTEI award for contributions to Post-it digital initiatives.
-- 3M 2020 Circle of Technical Excellence and Innovation: Honorable mention for architectural work completed related to multimodal communication and connected PPE.
-- 3M 2019 Circle of Technical Excellence and Innovation: Awarded corporate lab level CTEI award for leadership, professionalism, contributions to 3M's products, processes, technology or programs, and innovation.
-- [Patent WO2023105370: Article of Personal Protective Equipment and System](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023105370&_cid=P21-LMUTD8-26041-1)
+### Certifications
+- **Microsoft Certified: Azure Solutions Architect Expert**
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+- **Microsoft Certified: Azure AI Fundamentals**
+- **AWS Certified Solutions Architect – Associate**
+- **ITIL® 4 Foundation Certificate in IT Service Management** (PeopleCert)
+- **Certified Scrum Product Owner (CSPO)** – Scrum Inc.
+- **Databricks Lakehouse Fundamentals**
+- **Thayer Leadership Development Program**
+
+### Patents & Filings
+- **[Patent WO2023105370: Article of Personal Protective Equipment and System](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023105370&_cid=P21-LMUTD8-26041-1)** (2023)
+- **3M Intellectual Property & Invention Submissions:** Contributed architectural designs and IP filings across Smart Grid Modernization (9 filings), Connected Safety / PPE (5 filings), and Filtrete Smart Products (2 filings).
+- 
+### Honors & Awards
+- **3M Circle of Technical Excellence and Innovation (CTEI) Award (2022):** Consumer Business Group level award for architecture and technical leadership on Post-it digital initiatives.
+- **3M Circle of Technical Excellence and Innovation (CTEI) Award (2020):** Honorable Mention for enterprise architecture leadership in multimodal communication and connected PPE.
+- **3M Circle of Technical Excellence and Innovation (CTEI) Award (2019):** Corporate Lab level award for technical leadership, innovation, and foundational contributions across corporate R&D platforms.
 
 ## Education
 
+#### University of Minnesota: M.S. in Management of Technology (MOT) — Expected May 2027
 #### Bemidji State University: B.S. in Computer Science with Minors in Business Administration and Mathematics
 
 ## Projects
 
-- Post-it for Microsoft Teams (2021-2023). Enhance collaboration and communication within the Microsoft Teams platform by introducing a digital Post-it note platform. Provided architecture alignment and product ownership throughout the life of the program. Supported physical to digital capture applications. Azure, Kubernetes, PostgreSQL, ADLSv2, Infrastructure as Code, Machine Learning, Optical Character Recognition (OCR)
-- Consumer Business Group Data Mesh (2022+). Created cloud & data architecture, roadmap, and platforms to treat data as a product, increase sharing, decouple systems, and establish governance. Presently onboarding internal stakeholders creating a serverless/event-based end-to-end data mesh life cycle. Coach and advise on topics such as governance and data ownership. Databricks, Event Hub, Data Factory, Synapse Analytics, Analysis Services, PowerBI
-- Process Manufacturing (2020-2021). Chief solutions architect to four team effort to improve process improvement manufacturing at 3M. Guided teams to reduce reliance on custom code through an edge kappa-based hybrid cloud architecture leveraging a combination of zero-touch deployment strategies, cloud-based edge runtimes and open-source software development packages. This further allowed line-to-line and nested edge scenarios to support high throughput low latency cloud-based model training and edge model deployments.
-- KCI & Acelity Acquisition Support (2019). Onboarded KCI & Acelity as part of 3M acquisition. Provided architecture for medical solutions including in-home care IoT solutions for patients, wound monitoring, and process manufacturing. 
-- 3M Corporate Platforms (2017+). Chief solutions architect and chief product owner for the corporate platforms leveraged by divisions and internal projects at 3M. Key contributions included isolated multi-tenancy, regional data aggregation, the release of the platform to open source, division product releases, cost and scaling optimizations, configuration/infrastructure as code
-- Mental Health Assessment Tool (2010). Partnered with a clinical psychologist to create a medical patient mental health assessment tool. The tool will capture a medical patient's story and compare the captured information against the DSM to make clinical recommendations for patient care. Deployed internationally in the Netherlands.
+- **Global Sovereign Cloud Enclaves (2024–Present):** Architected multi-region sovereign cloud boundaries across EMEA and APAC to support mission-critical defense and commercial programs across Raytheon, Collins Aerospace, and Pratt & Whitney. Engineered compliant data perimeters, tenant isolation, and identity models satisfying ITAR, EAR, and international data residency mandates. *Azure Non-Government, OCI, Sovereign Cloud Enclaves, Policy-as-Code, Identity Federation, Multi-Region Networking*
+- **Enterprise Concept-to-Production Platform (2024–Present):** Designed a unified developer enablement ecosystem to eliminate organizational delivery friction, consolidating 70 manual ticket-based gates into an automated continuous-compliance pipeline. Accelerated cycle times from 100 days to 5 days, projecting 92k hours saved annually and $11M–$12M in cost avoidance. *Platform Engineering, Developer Portals, Immutable Infrastructure, Continuous Compliance, CI/CD, IaC, Automated Governance*
+- **Factory Edge Resiliency Architecture (2024–Present):** Pioneered Azure Local hybrid cloud architectures across active manufacturing facilities to de-risk shop-floor operations and ensure local survivability. Established the enterprise edge maturity standard scaling across production sites and catalyzed the creation of a dedicated Edge Resiliency engineering practice. *Azure Local, Hybrid Cloud, Edge Computing, IoT/OT Modernization, Zero-Trust Architecture*
+- **Consumer Business Group Data Mesh (2022–2024):** Created cloud and data architecture treating enterprise data as a product across business units, establishing decentralized data ownership and governance. Architected a serverless, event-driven data mesh lifecycle to enable seamless data sharing across supply chain, manufacturing, and ML initiatives. *Databricks, Event Hub, Data Factory, Synapse Analytics, Analysis Services, Distributed Data Mesh, PowerBI*
+- **Post-it for Microsoft Teams Collaboration Platform (2021–2023):** Led cloud architecture and product engineering for an enterprise-grade digital collaboration platform co-developed with Microsoft executive leadership. Scaled a real-time distributed microservices backend supporting physical-to-digital machine learning capture, computer vision, and cloud migration. *Azure, Kubernetes (AKS), PostgreSQL, ADLSv2, Computer Vision/OCR, Machine Learning Pipelines*
+- **Smart Factory Process Manufacturing (2020–2021):** Served as Chief Solutions Architect for manufacturing process improvement initiatives across four engineering teams. Designed a hybrid edge kappa-based architecture leveraging zero-touch deployments and edge runtimes to enable line-to-line nested edge computing and low-latency local model inference. *Edge Kappa Architecture, IoT/OT Integration, Zero-Touch Deployment, Cloud-to-Edge ML Pipelines, Hybrid Cloud*
 
 ## Skills
 
@@ -147,8 +159,8 @@ November 1998 – April 2000
 ```analytical```
 ```leadership```
 
-**Soft Skills**:  Team leadership, Mentoring, Coaching, Cross-functional collaboration, Talent development, Executive-level presentations, Stakeholder engagement, Clear and concise communication, Public speaking, Roadmap development, Strategic vision, Self Directed, Business acumen, Decision-making, Innovation management, Creative thinking, Design thinking, Continuous improvement, Relationship building, Influence and persuasion, Vendor management, Flexibility, Adaptability to change, Resilience under pressure, Attentive, Problem-solving in complex situations, Analytical skills, Data-driven decision-making, Critical thinking, Customer-centric mindset, Product development, Market research, Lean principles, Iterative development, Conflict resolution, Empathy
-**Platforms**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
-**Cloud**: Elasticity and Auto-scaling, Microservices, Serverless Computing, Containerization, Event-driven Architectures, Distributed Data Processing, Global Load Balancing, High Availability, Serverless Data Processing, Data Mesh, Internet of Things, Machine Learning, Generative AI, LLMs 
-**DevOps**: GitHub, GitHub Actions, Azure DevOps (Boards / Pipelines), IaaS, Infrastructure as Code (IaC), CI/CD 
-**Programming**: ASP.NET C#, Java, Angular, React, Python, TypeScript
+**Soft Skills**: Technical Fellow mentorship & talent development, Executive-level whitepapers & briefings, Cross-BU strategic governance, Technical community leadership, Public speaking & symposium keynotes, Strategic roadmapping, Systems thinking, Decision-making under ambiguity, Cross-functional collaboration, Stakeholder engagement, Innovation management, Change enablement, Relationship building & influence, Vendor & ecosystem partnerships, Creative problem-solving, Lean architecture principles, Data-driven strategy, Continuous improvement, Conflict resolution, Empathy, Resilience
+**Platforms**: Microsoft Azure, Oracle Cloud Infrastructure (OCI), Amazon Web Services (AWS), Google Cloud Platform (GCP), Azure Local / Hybrid Edge
+**Cloud & Architecture**: Global Sovereign Cloud Enclaves, Multi-Cloud Strategy, Cloud-Native Modernization, Hybrid & Edge Resiliency, High-Performance Computing (HPC), GPU Compute Infrastructure, Distributed Data Mesh, Microsoft Fabric & Purview, Enterprise AI / LLM Augmentation, Microservices, Event-Driven Architectures, Zero-Trust Architecture, High Availability & Disaster Recovery
+**Platform Engineering & DevOps**: Platform Engineering, Developer Portals, Policy-as-Code, Continuous Compliance, Immutable Infrastructure, Infrastructure as Code (IaC - Bicep/Terraform), Automated Deployment Pipelines, CI/CD, GitHub, GitHub Actions, Azure DevOps
+**Programming**: Python, C# / .NET, TypeScript, Java, SQL, React, Angular, PowerShell, Bash
