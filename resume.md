@@ -36,81 +36,53 @@ April 2024 - Present
 ### Chief Architect, 3M: Consumer Business Group
 January 2021 - April 2024
 
-- Lead architectural design and strategic technology roadmap for the Consumer Business Group Digital Hub, driving innovation in retail analytics, division programs, and data/AI/ML platforms.
-- Provide expert architectural oversight and leadership for key brand digital strategy, including Post-It, Command, and Filtrete, ensuring alignment with business goals and technical excellence.
-- Provide strategic architectural leadership and advisement on industry trends in key areas such as Identity and Access Management (IAM), sales fulfillment, automation, licensing solutions, encryption, and cloud environment/data isolation.
-- Successful implementation of cloud cost optimization strategies, resulting in a monthly spend reduction of $10k, while maintaining or improving performance and scalability.
-- Design data mesh architecture to facilitate comprehensive business group data governance and accessibility, enabling future integrations across supply chain, manufacturing, marketing, demand, and research use cases.
-- Innovate event and stream-based patterns to decouple complex systems, enhance data-sharing capabilities, provide efficient data storage, and enable previously challenging ML experiments, earning the trust of the developer community.
-- Actively provide training, teaching, facilitating, mentorship, and guidance to foster a culture of continuous learning, while leveraging expertise to influence strategic decisions at the senior executive leadership level.
-- Develop and execute an architectural roadmap that promotes innovation, research-driven initiatives, and incremental wins, overcoming resistance and instilling confidence throughout the organization.
-- Provide intellectual property review and support for invention submissions and trade secret ideation.
-- Led architecture and executive level planning for three generative AI programs focused on responsive content generation, dynamic analytics, and mobile agents
+- Digital Hub & Strategic Roadmapping: Directed enterprise architecture and technology strategy across flagship brands (Post-It, Command, Filtrete), establishing modern data, retail analytics, and AI/ML platform capabilities.
+- Enterprise Data Mesh & Decoupled Systems: Architected a decentralized data mesh framework treating data as a product, unifying analytics, governance, and event-driven data sharing across global supply chain, manufacturing, and marketing operations.
+- Generative AI & Emerging Tech Strategy: Formulated executive architectural roadmaps and pilot implementations for generative AI initiatives focused on responsive content generation, dynamic analytics, and autonomous mobile agents.
+- Intellectual Property & Technical Governance: Provided technical leadership for corporate IP reviews, guiding invention disclosures, trade secret ideation, and enterprise cloud/data isolation standards.
 
 ### Principal Product Manager, 3M: Consumer Business Group
 January 2022 - April 2024
 
-- Serve as Technical Product Owner for high-profile projects, including Post-it for Microsoft Teams CEO Summit collaboration with 3M and Microsoft CEOs, as well as Post-it mobile applications.
-- Lead a cross-functional team of 40 experts in design, cloud and mobile development, data, and machine learning, overseeing a commercial software development budget of $2M per quarter.
-- Drive knowledge transfer from agency consultation to a work-for-hire contractor model, internalizing critical expertise, adding $1.5M/quarter business value, and accelerating delivery velocity by over 2x.
-- Lead internal and external cybersecurity reviews for SOC2 and Microsoft Application security initiatives, ensuring compliance and safeguarding sensitive customer data.
-- Developed key business planning personas to inform roadmap and enhance sales enablement efforts, aligning product management with customer needs.
-- Establish a comprehensive multi-year roadmap, leveraging increased velocity and aligning with evolving customer demands, while considering key personas and user requirements.
-- Coordinate technical aspects of the program across design, legal, financial, compliance, cyber security, and engineering teams, ensuring seamless collaboration and successful project execution.
-- Drive architecture and roadmap transition, overseeing the migration of the original backend from AWS to Azure, enabling improved scalability, performance, and cost efficiency.
-- Ideation to implementation of key monetization strategies to support the 2024 conversion of a free to paid app with a projected first year $1M revenue capture.
+- Commercial Software Delivery & Financial Oversight: Managed an $8M annual software development budget, directing a 40-person cross-functional engineering, design, cloud, and ML organization across high-visibility commercial products.
+- Executive Co-Innovation: Served as Technical Product Owner for the Post-it for Microsoft Teams initiative, collaborating directly with 3M and Microsoft executive leadership to deliver real-time collaboration tools.
+- Operating Model Transformation: Restructured software delivery from agency consultation to an internalized model, capturing $6M in annual business value and accelerating engineering velocity by over 2x.
+- Cloud Migration & Commercialization: Directed backend cloud modernization from AWS to Azure to enhance scale and performance, while architecting the monetization model to convert free platforms to paid tiers ($1M+ projected first-year revenue).
 
 ### Chief Solutions Architect, 3M: Corporate Research
 October 2017 - December 2021
 
-- Chief Solutions Architect for three top corporate-wide initiatives related to informatics, multimodal communication, and factory automation.
-- Recognized internal expert for the Internet of Things (IoT) and Edge supporting additional projects related to the digital factory, materials process improvement, and commercial product releases.
-- Led cross-organization effort to introduce strategic secure solutions and policy changes to support IoT, edge processing, and development of trade secret solutions for the remote workforce.
-- Leader for corporate adoption of open source, releasing the first corporate platform on public 3M GitHub.
-- Lead solution architecture role for cross-discipline commercialization efforts focused on connected products for Electrical, Personal Safety, and Construction & Home Improvement Markets.
-- Founding member of the 3M corporate hackathon that today has over 1000 participants in 13 countries.
-- Led the 3M IoT hack involving 120 participants and 3 days of hands-on hardware and cloud development challenges.
-- Part of core pandemic response group exploring sustainable stockpile management, sustainability measurement of clinical supply chain through a partnership with Pfizer, and sales support through HoloLens.
-- Technical leadership and mentorship to software engineers, architects, and DevOps team members.
-- Developed C-level and senior executive-level presentations and briefings to clearly articulate architecture, digital product development & IoT.
-- Internal and external speaking engagements on subjects of IoT, Digital Product Development, and Architecture.
-- Led enterprise architecture review to support several large corporate-level decisions, strategic planning, and acquisitions.
+- Corporate R&D Architecture: Served as Chief Solutions Architect across corporate-wide research initiatives spanning informatics, multimodal communication, connected safety, and smart factory automation.
+- Edge & IoT Platform Strategy: Established corporate IoT and hybrid edge computing architectures, modernizing digital manufacturing lines and driving commercial connected product releases across global markets.
+- Open Source Governance & Innovation: Pioneered enterprise open-source adoption by publishing 3M’s first corporate platform on public GitHub; co-founded global engineering initiatives scaling to 1,000+ technical participants across 13 countries.
+- Executive Advisory & Strategic Diligence: Conducted enterprise architecture reviews to guide corporate acquisitions, C-suite strategic planning, and pandemic supply chain modeling partnerships.
 
 ### Chief Product Owner, 3M: Corporate Research
 June 2018 - January 2021
 
-- Chief Product Owner (CPO) for corporate R&D products, platforms, and applications related to AI/ML/Data, IoT/Edge/Robotics, High Performance Compute (HPC), Developer Platform, and Tooling.
-- Responsible for vision, leadership, team building, talent development, and both short and long-range roadmaps for 6 teams, 50 team members, and a budget of $3M+ annually.
-- Created cross-organizational alignment with other CPOs by shifting focus from platforms to enablement.
-- Reduced contingent workforce spending by $1M annually by shifting from build to buy/SaaS/PaaS for non-differentiated platforms. Also accelerated platform availability by over one year from original estimates.
-- Supported multi-site global efforts in 3 regions and 7 countries.
+- Product Vision & Engineering Leadership: Directed product vision, technical roadmaps, and talent strategy for 6 engineering teams (50+ personnel) managing a $3M+ annual budget across AI/ML, IoT/Edge/Robotics, High-Performance Computing (HPC), and developer tooling.
+- Developer Enablement Ecosystems: Established enterprise-wide alignment across Corporate Product Owners by pivoting organizational strategy from siloed platform builds to scalable developer enablement ecosystems.
+- SaaS/PaaS Operating Efficiencies: Reduced contingent workforce expenditure by $1M annually by transitioning non-differentiated capabilities to SaaS/PaaS models, accelerating platform availability by over one year.
+- Global Platform Deployment: Supported multi-site global R&D initiatives and foundational platform deployments across 7 countries and 3 international regions.
 
 ### Chief Solutions Architect, Risdall Marketing Group
 June 2003 - October 2017
 
-- Led architecture, program management, strategic plans, and technical solutions for startups and enterprises.
-- Formalized in-house architectural patterns, practices, technical standards, artifacts, and customer engagement models.
-- Selected, implemented, and maintained key partnerships with Adobe, Google, Microsoft, and Sitecore.
-- Primary technical sales leader. Established and adapted sales practices and internal training around current technology trends.
-- Responsible for monitoring project financials, estimation, budgeting, resource allocation, and forecasting for customers.
-- Provide research and direction for mobile, web, and new platforms (AI/ML, AR, VR, IoT, and Blockchain).
-- Core team member designing and implementing internal Agile / Kanban practices.
+- Enterprise Solutions & Governance: Directed technical architecture, software roadmaps, and delivery for startup through enterprise clients, establishing reusable architectural patterns, technical standards, and engagement models.
+- Strategic Alliances & Pre-Sales: Served as primary technical sales leader and established strategic enterprise partnerships with Microsoft, Google, Adobe, and Sitecore.
+- Practice Leadership & Emerging Tech: Managed project financials, resource allocation, and team budgeting while driving exploratory R&D across mobile, cloud, IoT, and early machine learning (ML) platforms.
 
-### Senior Web Engineer. Shavlik Technologies
+### Senior Web Engineer, Shavlik Technologies
 April 2000 - June 2003
 
-- Lead web engineer. Analyzed client needs, gathered requirements, software architecture, proposal writing, estimating, client-facing technical sales support, prototype creation, and day-to-day account management.
-- Performed security audits of network/server installations, root cause analysis, and secure code reviews.
-- Implemented standard practices of secure coding templates for reuse by other consultants.
-- Lead contributor to Microsoft Baseline Security Analyzer co-developed with Microsoft.
+- Security Engineering & MBSA: Key technical contributor to the Microsoft Baseline Security Analyzer (MBSA), co-developed with Microsoft to automate enterprise security audits and vulnerability remediation.
+- Security Architecture & Best Practices: Conducted server/network security audits, secure code reviews, and created standard secure coding templates adopted across consulting practices.
 
 ### Air Freight Consultant, Unisys
 November 1998 – April 2000
 
-- Implemented performance enhancements to globally distributed real-time airline cargo delivery and tracking systems.
-- In-country experience working with regional airlines on deployments in China and Europe
-- Project planning, programming, development, and international client installations and troubleshooting.
-- Primary developer responsible for globally deployed and utilized online booking request and tracking system.
+- Distributed Systems Development: Engineered performance optimizations and core features for globally deployed, real-time airline cargo booking and delivery tracking systems.
+- International Client Deployments: Delivered on-site international software installations, troubleshooting, and systems integration for regional airlines across Europe and China.
 
 ## Certifications, Patents & Awards
 
